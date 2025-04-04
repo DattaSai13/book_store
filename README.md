@@ -6,7 +6,6 @@ A dynamic Book Store Website built with a **responsive front-end** using HTML, C
 
 ## 🔗 Live Demo
 
-🌐 **Netlify Frontend (Static Preview)**: [Visit Site](https://book-store-dattasai.netlify.app)  
 🧑‍💻 **GitHub Repository**: [DattaSai13/book_store](https://github.com/DattaSai13/book_store)
 
 ---

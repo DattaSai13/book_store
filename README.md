@@ -48,5 +48,19 @@ A dynamic Book Store Website built with a **responsive front-end** using HTML, C
 | quantity     | INT          | Available stock              |
 
 
+# Some Snapshots of the website
+
+webpage  -->  ![Screenshot 2025-06-08 163610](https://github.com/user-attachments/assets/159b9377-f8a0-45b6-85c7-62f2f3691856)
+Home Page  -->  ![Screenshot 2025-06-08 163629](https://github.com/user-attachments/assets/29e81e7d-8c9f-4f83-8141-b508ca39f1ea)
+Table book  -->  ![Screenshot 2025-06-08 163640](https://github.com/user-attachments/assets/789fd738-1896-4b58-99a2-d6b8b1a031dc)
+Sales Page  -->  ![Screenshot 2025-06-08 163649](https://github.com/user-attachments/assets/08592eec-bb61-4cd9-ac02-ba89674df95b)
+History Page  -->  ![Screenshot 2025-06-08 163704](https://github.com/user-attachments/assets/f0094aba-c4f3-44f2-9930-bb6a9dca8b4c)
+
+
+
+
+
+
+
 
 
